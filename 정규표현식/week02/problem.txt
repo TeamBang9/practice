@@ -1,0 +1,31 @@
+#2주차 정규표현식
+#1. Branch Reset Groups -> 해당 언어가 없어서 스킵
+
+#2. Matching Same Text Again & Again
+
+#3. Backreferences To Failed Groups
+
+#4. Forward References -> 파이썬은 스킵, 자바는 풀이 진행
+
+#5. Positive Lookahead
+
+#6. Negative Lookahead
+
+#7. Positive Lookbehind
+
+#8. Negative Lookbehind
+
+# 난이도 상승으로 인한 임시 보류
+#9. Detect HTML Tags
+
+#10. Find A Sub-Word
+
+#11. Alien Username
+
+#12. IP Address Validation
+
+#13. Detecting Valid Latitude and Longitude Pairs
+
+#14. HackerRank Tweets
+
+#15. Build a Stack Exchange Scraper

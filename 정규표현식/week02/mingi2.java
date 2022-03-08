@@ -15,7 +15,6 @@ public class Gohome {
 	4. **Forward References**
 	→ tester.checker("^(\\2tic|(tac))*$"); // Use \\ instead of using \
 
-
 	#5. Positive Lookahead
 	->tester.checker("o(?=oo)"); //Use '\\' instead of '\'.
 	oo 앞으로 o가 몇개인가.
